@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.imgur.com/L0eR7fq.png" alt="LoL Friend Manager screenshot" width="900" />
+</p>
+
+<p align="center">
   <a href="./LoLFriendManager.exe">
     <img src="https://img.shields.io/github/downloads/mvxine/LoLFriendManager/total?style=for-the-badge&logo=github&label=Downloads" alt="GitHub downloads" />
   </a>
