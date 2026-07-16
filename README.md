@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/downloads/mvxine/LoLFriendManager/total?style=for-the-badge&logo=github&label=Downloads" alt="GitHub downloads" />
   </a>
   <a href="https://github.com/mvxine/LoLFriendManager/releases/latest">
-    <img src="https://img.shields.io/github/v/release/mvxine/LoLFriendManager?style=for-the-badge&label=Latest%20Release" alt="Latest release" />
+    <img src="https://img.shields.io/badge/Release-v1.0.0-181717?style=for-the-badge&logo=github" alt="Release v1.0.0" />
   </a>
   <a href="./LoLFriendManager.exe">
     <img src="https://img.shields.io/badge/Download-EXE-2EA043?style=for-the-badge&logo=download&logoColor=white" alt="Download EXE" />
